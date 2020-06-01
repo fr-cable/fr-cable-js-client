@@ -1,0 +1,23 @@
+{
+  "name": "fr-cable-js-client",
+  "version": "0.0.1",
+  "description": "Js client for fr cable infrastructure",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr-cable/fr-cable-js-client.git"
+  },
+  "keywords": [
+    "fr-cable",
+    "js"
+  ],
+  "author": "Dmitriy Vishnevskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fr-cable/fr-cable-js-client/issues"
+  },
+  "homepage": "https://github.com/fr-cable/fr-cable-js-client#readme"
+}
